@@ -23,6 +23,11 @@ math game for fun
 
 * 讓手機APP `Termux`也能使用 ，若在cmd 下指令是ok的，但寫bash script產出的$RANDOM卻是空值
 
-* 用`true random` 真正的RANDOM
+* 支援 `/usr/bin/dash` 、`/usr/bin/sh`
+
+* 使用真正的RANDOM`true random` 
+
+* `$1`打錯的話會產生 --help 提示
 
 * 產生題目後，可以再產出解法，按鈕提示。(做出來會很爽)
+    * excel 陣列表示？
